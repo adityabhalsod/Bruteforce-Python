@@ -30,7 +30,7 @@ bruteforce(8,32)
 
 # Very long time program it's execution
 # Very large size file
-# Execution time depend your processer
+# Execution time depends your processor
 # Example :
 # AAAAAAAA
 # BAAAAAAA
