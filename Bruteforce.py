@@ -9,11 +9,12 @@ def grouper(iterable,fillvalue=None):
 
 # file write method
 def filewrite(p):
-	with open('Bruteforce.csv', 'a') as fobj:
-	    chunks_gen = grouper(p)
-	    for x in chunks_gen:
-	        fobj.writelines([''.join(l) + '\n' for l in x if l])
-
+	chunks_gen = grouper(p)
+	for x in chunks_gen:
+		fobj=open(x[0][0]+".csv",'a')
+		fobj.writelines([''.join(l) + '\n' for l in x if l])
+		fobj.close()
+		
 # main method
 def bruteforce(min_len=8,max_len=8):
 	test_list = """ABCDEFGHIJKLMNOPRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~`!@#$%^&*()[]<>?/,.:;'"-_=+{}|""" # All Character	
