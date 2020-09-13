@@ -6,14 +6,6 @@
  
  
 
-- Here, Just Brute Force-Algorithm implementation in python
-
-
-
-
-
-
-
 
 
 
