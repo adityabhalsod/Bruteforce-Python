@@ -14,17 +14,8 @@
 
 
 
-
-
-
-
-
 [license-shield]: https://img.shields.io/github/license/AdityaBhalsod/Bruteforce-Python.svg?style=flat&logo=apache
 [license-url]: https://github.com/AdityaBhalsod/Bruteforce-Python/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/AdityaBhalsod/
-
-
-
-
 
