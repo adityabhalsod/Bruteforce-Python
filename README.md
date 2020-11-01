@@ -1,6 +1,6 @@
 # Bruteforce-Python
 
-- This program run on python3
+- This program running suitable on python3.*
 
 - Here, an example of Brute Force using python itertools and generating text on file. (It's fun for programing)
 
